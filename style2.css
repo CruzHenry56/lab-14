@@ -3,7 +3,7 @@ body, html {
     height: 100%;
 }
 .hero-image {
-  background-image: url("https://einbahnstrasse.github.io/Goldford-MTEC1003-OL04/labs/14/fauci.v01.jpg");
+  background-image: url("fauci.v01.jpg");
   height: 30%;
   background-position: center;
   background-repeat: no-repeat;
